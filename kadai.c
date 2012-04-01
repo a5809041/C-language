@@ -17,18 +17,18 @@ int main(){
 	if(rangeCheck(start)&&rangeCheck(now)&&rangeCheck(end)){
 		if(start<=end){//日にちをまたがない場合
 			if(start<=now&&now<end){//範囲に入っている
-				printf("now time is in range!");
+				printf("%d is in range between %d and %d!",now,start,end);
 			}
 			else{
-				printf("now time is out of range!");
+				printf("%d is out of range between %d and %d!",now,start,end);
 			}
 		}
 		else{//日づけをまたぐ場合
-			if(start<=now||now<end){
-				printf("now time is in range!");
+			if(start<=now||now<end){//範囲に入っている
+				printf("%d is in range between %d and %d!",now,start,end);
 			}
 			else{
-				printf("now time is out of range!");
+				printf("%d is out of range between %d and %d!",now,start,end);
 			}
 		}
 	}
