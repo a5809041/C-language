@@ -1,0 +1,35 @@
+An Introduction to Computers Qn: Why does a bee hum? Ans: Because it 
+doesn't know the words! One way of describing a computer is as an 
+electric box which humms. This, whilst technically correct, can lead to 
+significant amounts of confusion, particularly amongst those who then 
+try to program a fridge. A better way is to describe it as:
+A device which processes information according to instructions it has 
+been given. 
+This general definition rules out fridges but is not exhaustive. However 
+for our purposes it will do. The instructions you give to the computer 
+are often called a program. The business of using a computer is often 
+called programming. This is not what most people do with computers. Most 
+users do not write programs, instead they talk to programs written by 
+other people. We must therefore make a distinction between users and 
+programmers. A user has a job which he or she finds easier to do on a 
+computer running the appropriate program. A programmer has a masochistic 
+desire to tinker with the innards of the machine. One of the golden 
+rules is that you never write your own program if there is already one 
+available, i.e. a keen desire to process words with a computer should 
+not result in you writing a word processor! 
+
+However, because you will often want to do things with computers which 
+have not been done before, and further because there are people willing 
+to pay you to do it, we are going to learn how to program as well as use 
+a computer. 
+Before we can look at the fun packed business of programming though it 
+is worth looking at some computer terminology:Hardware and Software
+If you ever buy a computer you are not just getting a box which humms. 
+The box, to be useful, must also have sufficient built in intelligence 
+to understand simple commands to do things. At this point we must draw a 
+distinction between the software of a computer system and the hardware. 
+Hardware is the physical side of the system. Essentially if you can kick 
+it, and it stops working when immersed in a bucket of water, it is 
+hardware. Hardware is the impressive pile of lights and switches in the 
+corner.... 
+

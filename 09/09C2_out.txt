@@ -1,0 +1,52 @@
+and we will have to make sure that they are not even aware that there is a computer in there!
+you will press a switch to tell a computer to make it work. These embedded systems will make computer users of everybody, 
+fitting data processing components into other devices to drive them. You will not press a switch to make something work, 
+software failing could be very damaging. As engineers it is inevitable that a great deal of our time will be spent 
+out results. These are the traditional uses of computers. Note that this "raises the stakes" in that the consequences of 
+think of business of data processing as much more than working out the company payroll, reading in numbers and printing 
+because we can build in intelligence. It is into this world that we, as software writers are moving. It is important to 
+Most reasonably complex devices contain data processing components to optimise their performance and some exist only 
+way they work. However one, the CD player, could not be made to work without the built-in data processing ability. 
+Note that some of these data processing applications are merely applying technology to existing devices to improve the 
+select another part of the disk. 
+same time it is keeping the laser head precisely positioned and also monitoring all the buttons in case you want to 
+CD Player : A computer is taking a signal from the disk and converting it into the sound that you want to hear. At the 
+carburettor, timing of the spark etc, to optimise the performance of the engine. 
+oxygen content of the air, setting of the accelerator etc and producing voltages out which control the setting of the 
+Car : A micro-computer in the engine is taking information from sensors telling it the current engine speed, road speed, 
+this data and producing a display which tells you the time. 
+Digital Watch : A micro-computer in your watch is taking pulses from a crystal and requests from buttons, processing 
+more than that, examples of typical data processing applications are: 
+Note that the data processing side of computers, which you might think is entirely reading and writing numbers, is much 
+form the data sent out will have. 
+A computer program is just a sequence of instructions which tell a computer what to do with the data coming in, and what 
+just stuff coming in which has to be manipulated in some way.
+things. It is only us people who actually ascribe meaning to data (see above), as far a the computer is concerned it is 
+sausage machine and it will try to make sausages out of it. Put duff data into a computer and it will do equally useless 
+the data it is processing in the same way that a sausage machine is unaware of what meat is. Put a bicycle into a 
+This makes a computer a very good "mistake amplifier", as well as a useful thing to blame..... A program is unaware of 
+something comes out of the other end:
+in the same way that a sausage machine works on meat, something is put in one end, some processing is performed, and 
+information. A computer program tells the computer what to do with the information coming in. A computer works on data 
+Computers are data processors. Information is fed into them, they do something with it, and then generate further 
+a bank statement which says that you have [[sterling]]8,388,608! Data Processing
+it is concerned data is just patterns of bits, it is you who gives meaning to these patterns. Remember this when you get 
+Because it is vital to remember that a computer does not "know" what the data it is processing actually means. As far as 
+The transition from data to information is usually made when the human reads the output. So why am I being so pedantic? 
+or "eight of the thirty two light switches are off" 
+or "you are 256 feet below the surface of the ground" 
+However you could regard this as meaning: "you are 256 pounds overdrawn at the bank" 
+humans work on information. An example, the computer holds the bit pattern: 1111111 11111111 11111111 00000000 
+Information is the interpretation of the data by people to mean something. Strictly speaking computers process data, 
+Data is the collection of ons and offs which computers store and manipulate. 
+and information as two different things: 
+People use the words data and information interchangeably. They seem to think that one means the other. I regard data 
+that you can create your C programs and get them to go. Data and Information
+programs, ones you have written and ones from other people. You will have to learn to talk to an operating system so 
+the information held on the computer and provides lots of commands to allow you to manage things. It also lets you run 
+with a computer is often called its Operating System. The Operating System makes the machine usable. It looks after all 
+with some software. Without it they would just be a novel and highly expensive heating system. The software which comes 
+Trek film. We are going to use an operating system called MS-DOS. Later we will be using UNIX. All computers are sold 
+physical existence and it is comparatively easy to change. Software is the voice which says "Computer Running" in a Star 
+physical ability of the hardware, which can run programs, do something useful. It is called software because it has no 
+Software is what makes the machine tick. If a computer has a soul it keeps it in its software. Software uses the 
